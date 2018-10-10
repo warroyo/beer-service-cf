@@ -1,0 +1,6 @@
+---
+applications:
+- name: beer-service
+  memory: 1G
+  path: target/beer-service-cf-1.0.0.jar
+
