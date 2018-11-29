@@ -1,0 +1,10 @@
+---
+applications:
+- name: beer-service
+  routes:
+    - route: beer-service-wa.test-wa.apps.pcfone.io
+  memory: 1G
+  instances: 2
+  services: []
+  env:
+    SKIP_SSL_VALIDATION: "true"
