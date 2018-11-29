@@ -1,4 +1,4 @@
-app_name: nvenergy-service
+app_name: beer-service
 git_repo:  https://github.com/warroyo/beer-service-cf
 dev_route: https://beer-service-wa.dev.apps.pcfone.io
 test_route: https://beer-service-wa.dev.apps.pcfone.io
