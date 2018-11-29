@@ -2,7 +2,7 @@
 applications:
 - name: beer-service
   routes:
-    - route: beer-service-wa.apps.pcfone.io
+    - route: beer-service-wa.dev.apps.pcfone.io
   memory: 1G
   instances: 2
   services: []
