@@ -1,5 +1,5 @@
 app_name: nvenergy-service
 git_repo:  https://github.com/warroyo/beer-service-cf
-dev_route: https://docutech-service-email.dev.apps.pas.east.aws.warroyo.com
-test_route: https://docutech-service-email.test.apps.pas.east.aws.warroyo.com
+dev_route: https://beer-service-wa.apps.pcfone.io
+test_route: https://beer-service-wa.apps.pcfone.io
 
